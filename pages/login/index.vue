@@ -71,9 +71,9 @@ export default {
   data() {
     return {
       user: {
-        username: 'zj.zce@aliyun.com',
-        email: 'zj.zce@aliyun.com',
-        password: 'zj.zce@aliyun.com'
+        username: '',
+        email: '',
+        password: ''
       },
       errors: {} // 错误信息
     }
