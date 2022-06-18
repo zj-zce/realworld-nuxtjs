@@ -57,7 +57,6 @@ module.exports = {
     port: 8000
   },
 
-  
   // 插件注册
   plugins: [
     '~/plugins/dayjs.js',
